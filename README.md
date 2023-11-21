@@ -1,1 +1,1 @@
-In this project, I've been diving deep into SQL concepts, with a particular focus on Common Table Expressions (CTE) including advance SQL concepts like aggregation and SQL Windows function
+In my SQL project on Olympic Games data, I analyzed inquiries about total games, nations' participation, unique sports, and top-performing athletes. The resulting insights provide a professional overview of Olympic history and athlete achievements.
